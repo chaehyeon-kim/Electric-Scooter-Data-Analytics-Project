@@ -1,7 +1,7 @@
-# Electric-Scooter-Data-Analytics-Project
+## Electric-Scooter-Data-Analytics-Project
 
 
-- 사업 : 2022년도 현장연계 미래선도인재양성 지원사업 (실전문제연구팀)
+- 사업 : 2022년도 현장연계 미래선도인재양성 지원사업 (실전문제연구팀)  
   (참고 : [https://www.joongang.co.kr/article/25057319#home](https://www.joongang.co.kr/article/25057319#home))
 
 - 주제 : 퍼스널 모빌리티 (전동 킥보드) 사용 데이터 분석
